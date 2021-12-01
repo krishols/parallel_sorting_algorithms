@@ -1,0 +1,7 @@
+Failing in Thread:1
+0: 10000
+Before pragma
+In first pragma
+In first loop
+call to cuStreamSynchronize returned error 700: Illegal address during kernel execution
+
