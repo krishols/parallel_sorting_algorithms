@@ -1,5 +1,6 @@
 /* Code originally from The Crazy Programmer https://www.thecrazyprogrammer.com/2017/02/bucket-sort-in-c.html
  *
+ * Edited by Kristina Holsapple
  *
  */ 
 #include <stdio.h>
